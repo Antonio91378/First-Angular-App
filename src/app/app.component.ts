@@ -5,6 +5,4 @@ import { Component } from '@angular/core'
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
 })
-export class AppComponent {
-  name = 'Meu primeiro app com Angular'
-}
+export class AppComponent {}
